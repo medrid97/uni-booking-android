@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81018387407",
+    "project_id": "uni-booking",
+    "storage_bucket": "uni-booking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81018387407:android:31a1690e367040b0be70ba",
+        "android_client_info": {
+          "package_name": "com.dev.eventbookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81018387407-dupkcuhtsqc81imqb97hcccq5q4g1lor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrJ9cjSjDPXil8rgSGRo4H762wpZ_kr8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81018387407-dupkcuhtsqc81imqb97hcccq5q4g1lor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
